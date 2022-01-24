@@ -1,4 +1,4 @@
-# free-免费节点[博客:https://pecmdtoosl.tk]
+# free-免费节点[博客:https://pecmdtools.tk]
 
 本项目立志于为每一位MJJ提供免费的富强节点。
 
