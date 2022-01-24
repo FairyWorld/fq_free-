@@ -28,6 +28,10 @@ Chrome商店[官方版本]:https://chrome.google.com/webstore/detail/proxy-switc
 
 Github项目[官方版本]:https://github.com/FelisCatus/SwitchyOmega/wiki/Privacy#%E4%B8%AD%E6%96%87
 
+爱发电:https://afdian.net/@Ling-Github-Free
+
+发完带订单私信我
+
 另一个用爱发电项目:https://mkkhack.pw/
 
 [非本人项目]节点较稳定，希望大家多多支持这位发电者
