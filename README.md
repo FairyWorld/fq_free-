@@ -14,10 +14,6 @@
 
 客户端下载https://github.com/2dust/v2rayN
 
-开箱即用集成客户端请到发行版下载
-
-集成Google浏览器[在shuax.com基础上配置代理插件]，V2rayN客户端[已配置订阅]
-
 Chromium内核浏览器请搭配SwitchyOmega插件使用
 
 下载地址:
